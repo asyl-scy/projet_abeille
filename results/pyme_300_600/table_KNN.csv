@@ -1,0 +1,17 @@
+"true";"pred";"Freq"
+"ctrl300";"ctrl300";8
+"ctrl600";"ctrl300";0
+"Pym300exp";"ctrl300";1
+"Pym600exp";"ctrl300";0
+"ctrl300";"ctrl600";1
+"ctrl600";"ctrl600";7
+"Pym300exp";"ctrl600";0
+"Pym600exp";"ctrl600";1
+"ctrl300";"Pym300exp";4
+"ctrl600";"Pym300exp";2
+"Pym300exp";"Pym300exp";5
+"Pym600exp";"Pym300exp";0
+"ctrl300";"Pym600exp";0
+"ctrl600";"Pym600exp";0
+"Pym300exp";"Pym600exp";0
+"Pym600exp";"Pym600exp";8
