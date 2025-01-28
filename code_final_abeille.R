@@ -1,3 +1,4 @@
+#author = asyl_scy
 #------------------------------------------------------------------------------------------------fonction
 
 auc_roc<-function(the_model,test_data, name_model,suffixe){
