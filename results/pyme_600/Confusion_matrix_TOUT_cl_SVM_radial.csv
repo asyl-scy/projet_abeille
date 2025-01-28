@@ -1,0 +1,12 @@
+"";"list_var_CM_TOUT[[i]]$byClass"
+"Sensitivity";1
+"Specificity";0,888888888888889
+"Pos Pred Value";0,916666666666667
+"Neg Pred Value";1
+"Precision";0,916666666666667
+"Recall";1
+"F1";0,956521739130435
+"Prevalence";0,55
+"Detection Rate";0,55
+"Detection Prevalence";0,6
+"Balanced Accuracy";0,944444444444444
