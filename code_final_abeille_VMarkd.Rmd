@@ -1,6 +1,6 @@
 ---
 title: "code_final_abeille_VMarkd"
-author: "a.sylla"
+author: "a.sylla(asyl_scy)"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Version R.Markdown du script
 ```{r}
 #------------------------------------------------------------------------------------------------fonction
 
